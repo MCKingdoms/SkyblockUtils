@@ -1,0 +1,7 @@
+name: SkyblockUtils
+version: '${project.version}'
+main: com.github.mckingdoms.skyblockutils.SkyblockUtils
+prefix: [ SKYBLOCKUTILS ]
+load: STARTUP
+softdepend: [ Skyblock ]
+description: Open Source utility plugin for MCKingdoms/Skyblock.
